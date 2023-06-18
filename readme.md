@@ -1,5 +1,5 @@
 # What is this?
-This program is a simple commandline image editor to add an [MPC](https://www.reddit.com/r/mpcproxies/comments/yz0e9l/faq_templates_guides_useful_links_post_card/) compatible bleed border.
+This program is a simple commandline image editor to add an [MPC](https://www.reddit.com/r/mpcproxies/comments/yz0e9l/faq_templates_guides_useful_links_post_card/) compatible bleed border. Created for [this](https://www.reddit.com/r/mpcproxies/comments/14c1dbo/automating_adding_border_to_mse_output/?sort=new) reddit post.
 
 # __How do I use it?__
 ### Installation
