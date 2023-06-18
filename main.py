@@ -1,4 +1,5 @@
 from PIL import Image
+from tqdm import tqdm
 import sys
 import os
 
@@ -33,7 +34,7 @@ def bleed(img):
     return bleed_img
 
 def main():
-    for filename in os.listdir(INPUT_DIRECTORY):
+    for filename in tqdm(os.listdir(INPUT_DIRECTORY)):
         f = os.path.join(INPUT_DIRECTORY, filename)
         # checking if it is a file
         if os.path.isfile(f):
