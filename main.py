@@ -49,7 +49,7 @@ def main():
 
 if __name__ == "__main__":
     if  "--h" in sys.argv or "--help" in sys.argv:
-        print(" ---- HELP PAGE ---- \
+        print(" -------- HELP PAGE -------- \
             \n-- help: Displays this page \
             \n-- input: STR - Set the input directory. default: .\input \
             \n-- output: STR - Set the output directory. default: .\output \
